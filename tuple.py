@@ -1,0 +1,13 @@
+a = ("reddy",'ghj','sdsd',3,4,5,4,2,3,4)
+print(a)
+print(type(a))
+print(a.count(4))
+print(a.index(2))
+print(a.__len__())
+print(a.__dir__())
+print(list(a))
+print(type(a))
+print(str(a))
+for daddy in a:
+    print(daddy)
+print(a)
